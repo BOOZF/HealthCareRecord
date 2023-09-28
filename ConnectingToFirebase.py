@@ -1,4 +1,5 @@
 # Import Necessary Libraries
+!pip install pyrebase
 import streamlit as st
 import pandas as pd
 import pyrebase
